@@ -1,7 +1,6 @@
 # JavaScript Games
 
-This repository contains JavaScript-based games that I create in my free time to practice Javascript. 
-Each game resides on a separate branch for better organization.
+This repository contains JavaScript-based games that I create in my free time to practice Javascript.<br>
 
 ## Table of Contents
 
